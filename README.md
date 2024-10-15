@@ -9,7 +9,7 @@ This project focuses on analyzing customer churn in the banking sector using Pow
 - **Customer Segmentation**: Analysis of different customer segments to tailor retention efforts.
 
 ## Data Sources
-This analysis utilizes a public dataset from Kaggle: \href{https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers/data}{link}
+This analysis utilizes a public dataset from Kaggle: https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers/data
 
 ## Technologies Used
 - **Power BI**: For data visualization and reporting.
